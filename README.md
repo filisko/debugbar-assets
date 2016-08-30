@@ -1,7 +1,7 @@
 # Stolz/Assets Collector for Debugbar
 
 ## Result
-![Assets collector for Debugbar](https://i.snag.gy/oLuxqH.jpg "Assets collector for Debugbar")
+![Assets collector for Debugbar](https://i.snag.gy/IyQnKo.jpg "Assets collector for Debugbar")
 
 
 ## Installation and configuration

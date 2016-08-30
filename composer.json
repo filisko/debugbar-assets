@@ -4,8 +4,7 @@
     "keywords": ["stolz/assets", "debugbar", "collector"],
     "type": "package",
     "require": {
-        "maximebf/debugbar": ">=1.11",
-        "stolz/assets": ">=0.1.8"
+        "maximebf/debugbar": ">=1.11"
     },
     "license": "MIT",
     "autoload": {

@@ -1,5 +1,7 @@
 # Stolz/Assets Collector for Debugbar
 
+This is a Debugbar Collector for [Stolz/Assets](https://github.com/Stolz/Assets), an ultra-simple-to-use assets management library for PHP. :smiley:
+
 ## Result
 ![Assets collector for Debugbar](https://i.snag.gy/IyQnKo.jpg "Assets collector for Debugbar")
 

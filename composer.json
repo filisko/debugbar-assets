@@ -1,0 +1,20 @@
+{
+    "name": "filisko/debugbar-assets",
+    "description": "Stolz/Assets Collector for Debugbar",
+    "keywords": ["stolz/assets", "debugbar", "collector"],
+    "type": "package",
+    "require": {
+        "maximebf/debugbar": ">=1.11",
+        "stolz/assets": ">=0.1.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"Filisko\\DebugBar\\DataCollector\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Filisko",
+            "email": "filisfutsarov@gmail.com"
+        }
+    ]
+}

@@ -70,9 +70,6 @@ class AssetsCollector extends \DebugBar\DataCollector\DataCollector implements \
 
     public function getAssets()
     {
-        return array(
-            'css' => 'widgets/widget.css',
-            'js' => 'widgets/widget.js'
-        );
+        return null;
     }
 }
